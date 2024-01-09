@@ -27,7 +27,7 @@
     "@trpc/server": "10.38.1",
     "@types/debug": "^4.1.7",
     "@urql/exchange-auth": "^2.1.4",
-    "algoliasearch": "4.19.1",
+    "algoliasearch": "4.22.1",
     "clsx": "^1.2.1",
     "debug": "^4.3.4",
     "dotenv": "^16.3.1",
